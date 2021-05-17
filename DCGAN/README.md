@@ -1,4 +1,4 @@
-![](dcgan.jpg)
+![](dcgan.png)
 
 [![](https://app.efemarai.com/view_model_button)](https://app.efemarai.com/view?id=)
 

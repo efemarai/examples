@@ -1,8 +1,8 @@
-![](unet.jpg)
+![](UNET.jpg)
 
 [![](https://app.efemarai.com/view_model_button)](https://app.efemarai.com/view?id=NWftAGNFQzjwWmbY)
 
-This example is based on the PyTorch Hub [UNET](https://pytorch.org/hub/mateuszbuda_brain-segmentation-pytorch_unet/) as in the [repository]{https://github.com/mateuszbuda/brain-segmentation-pytorch}.
+This example is based on the PyTorch Hub [UNET](https://pytorch.org/hub/mateuszbuda_brain-segmentation-pytorch_unet/) as in the [repository](https://github.com/mateuszbuda/brain-segmentation-pytorch).
 
 
 ## Starting

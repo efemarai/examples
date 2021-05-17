@@ -13,6 +13,6 @@ To run the code, execute
 python torchvision_models.py --arch mobilenet_v3_small --image <dog.jpg>
 ```
 
-If no image is specified, it will load an ImgaeFolder dataset at `data` folder.
+If no image is specified, it will load an ImageFolder dataset at `data` folder.
 
 Possible architectures are defined on the PyTorch Vision [models](https://pytorch.org/vision/stable/models.html) website.
